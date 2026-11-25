@@ -1,0 +1,26 @@
+﻿{
+  "replacement_rules": [
+    { "name": "texture", "replace_ids": [7658055825], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/BUZIRUDI98/swda/refs/heads/main/IMG_1088.png" },
+    { "name": "kill sound", "replace_ids": [16530229616, 16530229541, 16530229695], "mode": "id", "enabled": true,
+      "with_id": 8941612531 },
+    { "name": "skybk", "replace_ids": [2108482005, 14147881792, 135908632589654, 84214501374682, 10196550937, 12261809766], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/BUZIRUDI98/das/refs/heads/main/IMG_1101.png" },
+    { "name": "skydn", "replace_ids": [2108545280, 10196550667, 14147882149, 103020541883227, 89972436184102, 12261813110], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/BUZIRUDI98/s/refs/heads/main/IMG_1068.png" },
+    { "name": "skyft", "replace_ids": [14147882761, 12261809766, 135908632589654, 84214501374682, 10196550367, 2108482231], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/BUZIRUDI98/sdawdsad/refs/heads/main/IMG_1100.png" },
+    { "name": "skylf", "replace_ids": [14147883091, 135908632589654, 84214501374682, 2108482395, 12261809766, 10196550128], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/BUZIRUDI98/dsajipwdjasd/refs/heads/main/IMG_1067.png" },
+    { "name": "skyrt", "replace_ids": [14147882405, 135908632589654, 84214501374682, 2108482542, 12261809766, 10196549902], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/BUZIRUDI98/dkai9djsa/refs/heads/main/IMG_1066.png" },
+    { "name": "skyup", "replace_ids": [14147881297, 72960281658487, 92138082970751, 2108482676, 10196567794, 12261813678], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/BUZIRUDI98/sadwadsawdsadwads/refs/heads/main/IMG_1065.png" },
+    { "name": "elim icon", "replace_ids": [16802957270], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/MeowCyper123/f7-pack-christmas/main/f7-pack/f7_icon.png" },
+    { "name": "item background", "replace_ids": [13220167337, 13188242420, 13220167472, 13188153054, 13188242287], "mode": "cdn", "enabled": true,
+      "cdn_url": "https://raw.githubusercontent.com/MeowCyper123/f7-pack-christmas/main/f7-pack/item_bg.png" },
+    { "name": "load in sound", "replace_ids": [6384899588], "mode": "id", "enabled": true,
+      "with_id": 139219910523037 }
+  ]
+}
