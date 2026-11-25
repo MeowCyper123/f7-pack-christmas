@@ -1,4 +1,4 @@
-﻿{
+{
   "replacement_rules": [
     { "name": "texture", "replace_ids": [7658055825], "mode": "cdn", "enabled": true,
       "cdn_url": "https://raw.githubusercontent.com/MeowCyper123/f7-pack-christmas/main/f7-pack/floor_christmas2.png" },
