@@ -1,7 +1,7 @@
 ﻿{
   "replacement_rules": [
     { "name": "texture", "replace_ids": [7658055825], "mode": "cdn", "enabled": true,
-      "cdn_url": "https://raw.githubusercontent.com/MeowCyper123/f7-pack-christmas/main/f7-pack/floor_christmas.png" },
+      "cdn_url": "https://raw.githubusercontent.com/MeowCyper123/f7-pack-christmas/main/f7-pack/floor_christmas2.png" },
     { "name": "kill sound", "replace_ids": [16530229616, 16530229541, 16530229695], "mode": "id", "enabled": true,
       "with_id": 8941612531 },
     { "name": "skybk", "replace_ids": [2108482005, 14147881792, 135908632589654, 84214501374682, 10196550937, 12261809766], "mode": "cdn", "enabled": true,
